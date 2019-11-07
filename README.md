@@ -21,7 +21,11 @@
 * After all sentences are done, a new file with the <file_name>_anotated.txt will be stored in the same location as that of the parent file.
 
 ## Window description
-The selected sentence is shown on the left with the whole document always present on the right for reference.
+* Select the file from the file explorer(opens on clicking browse option) and click okay.
+![Screenshot from 2019-11-07 18-22-01](https://user-images.githubusercontent.com/41947720/68368222-8f8a1900-015d-11ea-9a41-4e7fe7d24a18.png)
+* Sample preview of the window.
+![Screenshot from 2019-11-07 17-58-06](https://user-images.githubusercontent.com/41947720/68368287-bea08a80-015d-11ea-9063-d56621505f1a.png)
+
 
 ## Requirements
 * Python 3
