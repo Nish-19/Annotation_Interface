@@ -3,7 +3,7 @@
 ## About
 * Python based GUI(Graphical User Interface) for annotation of documents. 
 * It annotates documents on a sentence level, assigning each sentence with the tags. 
-* Can be used for easing annotation of data for certain NLP(Natural Language Processing) tasks.
+* Can be used for easing annotation of data for certain NLP(Natural Language Processing) tasks, like novelty detection.
 
 ## Working
 
@@ -34,5 +34,5 @@
 * Download punkt tokenizer module of nltk
   * Type 'nltk.download('punkt')' in the python terminal after importing nltk
 * wxpython(cross platform gui toolkit for python)
-  * [Link for downloading](https://wxpython.org/pages/downloads/index.html)
+  * [Link for downloading](https://wxpython.org/pages/downloads/index.html) OR
   * 'conda install -c anaconda wxpython' in the terminal for conda users  
